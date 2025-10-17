@@ -1,0 +1,16 @@
+#Compilados
+*.exe
+.o.obj
+
+#Diretórios de build
+/build/
+CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+#Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.bak
